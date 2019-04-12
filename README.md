@@ -1,6 +1,5 @@
 # Dank-Chess
-DANK CHESS
-Zyad Ayman - Amr El-Begawy
+**Zyad Ayman - Amr El-Begawy**
 
 **Dank chess** is a console-based chess game written in the C-programming language. The game offers the standard chess experience through the use of console commands.
 The game supports 2 player mode or a player vs AI mode where you can test your skills against the Dank Zero engine.
